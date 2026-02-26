@@ -1,0 +1,2 @@
+Original Dataset : https://www.kaggle.com/datasets/naurosromim/bengali-hate-speech-dataset
+Preprocessed Dataset : https://drive.google.com/file/d/1647t-EdEqIyc9PMpH_mWiG9hWXioxLQT/view?usp=drive_link
